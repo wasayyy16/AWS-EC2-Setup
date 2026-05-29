@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Logs and runtime files
+logs/
+outputs/
+runs/
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Large model or dataset files
+data/
+models/
